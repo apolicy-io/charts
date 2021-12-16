@@ -34,3 +34,6 @@ analyzer:
   labels: {}
   securityContext: {}
   resources: {}
+
+# configure docker registry
+imagePullSecrets: []
